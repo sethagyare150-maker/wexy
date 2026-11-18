@@ -1,0 +1,40 @@
+* {}
+
+body {
+    transform: scale(0.9);
+    background-color: oldlace;
+}
+
+button {
+    margin-left: 20rem;
+    padding: 5rem;
+    border: none;
+    background-color: rgba(255, 68, 0, 0.291);
+    color: rgb(50, 42, 39);
+    box-shadow: 4px 7px 10px;
+}
+
+.modal {
+    border: none
+}
+
+img {
+    width: ;
+    height: ;
+}
+
+#llaaks {
+    width: 110rem;
+    padding: 30rem;
+}
+
+#alak {
+    width: 30rem;
+    margin-top: -rem;
+    margin-left: 80rem;
+}
+
+legend {
+    margin-top: -60rem;
+    margin-left: 80rem;
+}

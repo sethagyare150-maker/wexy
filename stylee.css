@@ -1,0 +1,364 @@
+body {
+    background-color: black;
+    opacity: 20px;
+}
+
+nav {
+    background-color: black;
+    box-shadow: 3px 6px 9px;
+    border-radius: 10px;
+    margin-top: -17px;
+    padding-bottom: 10px;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    margin-left: 50rem;
+
+}
+
+
+
+p {
+    margin-top: -35px;
+    margin-left: 40px;
+    color: aliceblue;
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: orangered;
+}
+
+li a {
+    padding: 20px;
+}
+
+button {
+    margin-left: 120px;
+    position: static;
+    color: white;
+    background-color: orangered;
+    margin-top: -0, -2px;
+    border-radius: 10px;
+}
+
+#hasg {
+    margin-left: 44rem;
+    margin-right: 3rem;
+    margin-top: -50px;
+    background-color: black;
+    border-color: black;
+    border: none;
+}
+
+.showbar {
+    background-color: rgb(3, 2, 2);
+    margin-top: -0.1px;
+    padding: 2px;
+    border-color: black black black;
+    border: none;
+}
+
+.ula {
+    display: flex;
+    margin-left: 30rem;
+    flex-direction: column;
+    gap: 5px;
+}
+
+#jasg {
+    margin-right: 30rem;
+    margin-left: -7rem;
+    padding: 0.5rem;
+    border: none;
+    outline: ;
+}
+
+.lia {
+    color: aliceblue;
+    background-color: rgba(0, 0, 0, 0.35);
+    font-size: larger;
+}
+
+legend {
+    font-size: large;
+}
+
+.lia:hover {
+    color: orangered;
+}
+
+#jasg:hover {
+    background-color: rgb(198, 71, 25);
+}
+
+#imgs {
+    height: 60px;
+    width: 50px;
+    margin-left: 30rem;
+    size: 30rem;
+}
+
+#ngxt {
+    margin-top: 20px;
+    background: linear-gradient(to left, orangered, orange, red);
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+}
+
+#tcnyl {
+    margin-top: -20px;
+    background: linear-gradient(to top, rgb(30, 100, 160), violet);
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+}
+
+#musd {
+    margin-top: -20px;
+    color: #fff;
+}
+
+.gast {
+    padding: 0.3px;
+    font-size: small;
+}
+
+#jahsed {
+    margin-left: 6px;
+    margin-top: -3px;
+    background: linear-gradient(to top, blue, pink);
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+    border: none;
+}
+
+#hage {
+    width: 7.8cm;
+    height: 7cm;
+    margin-top: 20rem;
+    margin-left: 1.7cm;
+}
+
+@media {
+
+
+    #hron {
+        width: 7.8cm;
+        height: 7cm;
+        margin-top: -3.5cm;
+        margin-left: 19cm;
+        box-shadow: 4px 8px 12px;
+    }
+
+
+
+    #kad {
+        color: #fff;
+        margin-top: 15rem;
+        margin-left: 50px;
+    }
+
+    #nnab {
+        margin-left: 50px;
+        color: #fff;
+    }
+
+    #bnas {
+        color: white;
+        margin-left: 4px;
+        width: ;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        height: ;
+
+    }
+
+    #laka {
+        margin-top: -26rem;
+        margin-left: 80px;
+    }
+
+
+
+    #nas {
+        background-color: ;
+        margin-top: 10px;
+        margin-left: 50px;
+        border-radius: 2px;
+        background-color: orangered;
+        transform: scale(0.9);
+        border: none;
+        outline: none;
+    }
+
+    #lamw {
+        margin-left: 52rem;
+        color: #fff;
+        margin-top: -15rem;
+    }
+
+    #llaa {
+        margin-left: 52rem;
+        color: white;
+        margin-top: -10px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+
+    #maha {
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+
+    #aahj {
+        margin-left: 52rem;
+        border-radius: 2px;
+        margin-top: -20px;
+        transform: scale(0.9);
+        border: none;
+    }
+}
+
+#salj {
+    margin-top: 80px;
+    transform: 2;
+    padding: 6rem;
+    border: none;
+}
+
+#massd {
+    color: #fff;
+    margin-top: -208px;
+    margin-left: 30px;
+    gap: ;
+}
+
+#laaj {
+    color: #fff;
+    margin-left: 30px;
+}
+
+#oopa {
+    color: #fff;
+    margin-left: 30px;
+}
+
+#paeed {
+    color: #fff;
+    margin-left: 30px;
+}
+
+#ppooq {
+    color: #fff;
+    margin-left: 30px;
+}
+
+#aassd {
+    color: #fff;
+    margin-left: 36rem;
+    margin-top: -230px;
+
+}
+
+#opii {
+    color: #fff;
+    margin-left: 36rem;
+    margin-top: -16px;
+}
+
+#uuas {
+    color: #fff;
+    margin-left: 36rem;
+}
+
+#lkka {
+    color: #fff;
+    margin-left: 36rem;
+}
+
+#yatr {
+    color: #fff;
+    margin-left: 36rem;
+}
+
+#pawws {
+    color: #fff;
+    margin-left: 65rem;
+    margin-top: -14.6rem;
+}
+
+#lawws {
+    color: #fff;
+    margin-left: 65rem;
+}
+
+#iiau {
+    color: #fff;
+    margin-left: 65rem;
+}
+
+#wessd {
+    color: #fff;
+    margin-left: 65rem;
+}
+
+#assad {
+    color: #fff;
+    margin-left: 65rem;
+}
+
+
+
+#iiasd {
+    margin-left: 20px;
+    color: #fff;
+    margin-top: 30px;
+    background-image: linear-gradient(to top, red, pink);
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.srdd {
+    width: 30px;
+    height: 40px;
+    margin-left: 50rem;
+    margin-bottom: -16rem;
+    position: static;
+}
+
+.laass {
+    margin-left: 55rem;
+    width: 30px;
+    height: 40px;
+    position: static;
+}
+
+.imaa {
+    margin-bottom: rem;
+    width: 30px;
+    height: 40px;
+    margin-left: -5px;
+    position: static;
+}
+
+.laoo {
+    width: 30px;
+    height: 40px;
+    margin-left: -5px;
+    margin-bottom: rem;
+    position: static;
+}
+
+.aaww {
+    width: 30px;
+    height: 40px;
+    margin-left: -5px;
+    margin-bottom: ;
+    position: static;
+}

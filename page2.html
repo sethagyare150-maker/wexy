@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MeNo</title>
+    <link rel="stylesheet" href="style2.css">
+    <link rel="stylesheet" href="bid.js">
+</head>
+
+<body>
+    <button class="open-btn" commandFor="modal-box" command="show-modal">Open Bid</button>
+
+    <dialog class="modal" id="modal-box">
+        <button class="close-btn">&times;</button>
+        <h2>Trail BiD</h2>
+        <h3>881499463</h3>
+        <p>For trail aspect</p>
+    </dialog>
+
+
+    <script>
+        const openBtn = document.getElementById("openModal");
+        const closeBtn = document.getElementById("closeModal");
+        const overlay = documment.getElementById("overlay");
+
+        function openModal() {
+            overlay.classList.add("active");
+        }
+        function closeModal() {
+            overlay.classList.remove("active");
+        }
+    </script>
+</body>
+
+</html>
